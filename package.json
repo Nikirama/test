@@ -1,0 +1,17 @@
+{
+  "name": "igms_mobile_app",
+  "version": "1.0.0",
+  "description": "iGMS Vacation Rental Software",
+  "author": "The incredible iGMS team",
+  "license": "ISC",
+  "type": "module",
+  "engines": {
+    "node": ">=17.0.0",
+    "npm": ">=7.0.0"
+  },
+  "dependencies": {
+    "colorette": "^2.0.20",
+    "cordova": "^12.0.0",
+    "ejs": "^3.1.9"
+  }
+}
